@@ -1,3 +1,1 @@
-# GSF
-
-Geometric shapes formulas
+# Geometric Shapes Formulas (GSF)
